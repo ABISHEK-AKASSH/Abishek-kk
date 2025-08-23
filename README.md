@@ -79,12 +79,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek-kk/Abishek-kk/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Abishek-kk/Abishek-kk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 > Make sure you added the **`.github/workflows/snake.yml`** workflow I gave you earlier so these SVGs exist.
 
